@@ -19,6 +19,9 @@ namespace Progressor
         public void Progtessor()
         {
 
+            int visota, shirina;
+
+
         }
     }
 }
