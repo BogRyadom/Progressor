@@ -16,6 +16,9 @@ namespace Progressor
         {
             InitializeComponent();
         }
+        public void Progtessor()
+        {
 
+        }
     }
 }
